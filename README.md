@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Dhruvi Tyagi</h1>
 <h3 align="center">An iOS Developer with a foundation in Data Science and strong product-building experience through hackathons and internships.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
